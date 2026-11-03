@@ -1,27 +1,42 @@
-# ArtAndAI
+Art and AI: Edmonton Arts Sector Case Study
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.7.
+A one-page website that presents our MacEwan University capstone project on how AI could help Edmonton's arts sector deal with rising costs, hesitant audiences and uncertain funding.
 
-## Development server
+Live site: https://solankisamirh.github.io/art-and-ai/
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Art and AI
 
-## Code scaffolding
+About the project
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Edmonton's arts community is under pressure. Our case study looks at the local arts scene, compares it with New York and Los Angeles, and suggests practical, AI-supported strategies for funding, community engagement and audience development.
 
-## Build
+The website walks through the full project:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Schedule and WBS (work breakdown structure)
+Risks and how we planned to reduce them
+Stakeholder analysis and empathy map
+Current state, based on Alberta survey data
+Benchmarking against New York and Los Angeles
+KPIs and an analysis report
+Future state, with real examples of AI in the arts
+SWOT analysis
+Features
+Clean single-page layout with one section for each part of the project
+Click any chart or diagram to open it full size in a lightbox
+Sources linked for every reference
+Built with
+Angular 16
+HTML, SCSS and JavaScript
+GitHub Pages for hosting (deployed with angular-cli-ghpages)
+Run it locally
+bash
+npm install
+npm start
 
-## Running unit tests
+Then open http://localhost:4200/
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Team
+Samir Solanki - Project Manager, Wed Developer 
+Yash Kaushik - Project Manager
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+MacEwan University capstone project.
